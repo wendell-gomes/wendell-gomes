@@ -1,4 +1,6 @@
-Hello There!👾
+<p align="center">
+  Hello There!👾
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif" width="70%">
@@ -6,12 +8,15 @@ Hello There!👾
 </p>
 
 
+
 <br>
 
 
-![Wendell github stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&show_icons=true&theme=midnight-purple)
+<p align="center">
+  ![Wendell github stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&show_icons=true&theme=midnight-purple)
+</p>
 --- 
-
+</p>
 
 
 <p align="center"> 
