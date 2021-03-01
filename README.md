@@ -9,7 +9,7 @@
 
 </details>
   
-  ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&theme=midnight-purple)
+  ![Estatísticas do Wendell GitHub](https://github-readme-stats.vercel.app/api?username=wendell-gomes&theme=midnight-purple)
 ---
 
 <p align="center"> 
