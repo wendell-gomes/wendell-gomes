@@ -6,7 +6,7 @@
 
 <br>
 
-![Wendell's github stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&theme=midnight-purple)
+![Wendell github stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&show_icons=true&theme=midnight-purple)
 ---  
 
 
