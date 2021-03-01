@@ -13,7 +13,7 @@
 ---
 
 <p align="center"> 
-  <i> Clique e explore </i>
+  <i> 👨‍💻 Clique e explore 👨‍💻</i>
 </p>
 <p align="center">
   
