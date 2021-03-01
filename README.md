@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   
-  [![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes)](https://github.com/wendell-gomes/github-readme-stats)
+  [![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes)](https://github.com/wendell-gomes/github-readme-stats)
 ---
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendell-gomes-75a3a8205/)](https://www.linkedin.com/in/wendell-gomes-75a3a8205/)
