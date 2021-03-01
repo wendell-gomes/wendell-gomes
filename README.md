@@ -6,8 +6,10 @@
 
 <br>
 
+<p align="center"> 
 ![Wendell github stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes&show_icons=true&theme=midnight-purple)
----  
+--- 
+<p align="center">
 
 
 <p align="center"> 
