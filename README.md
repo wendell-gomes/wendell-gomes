@@ -19,7 +19,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendell-gomes-75a3a8205/)](https://www.linkedin.com/in/wendell-gomes-75a3a8205/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wendell-gomes)](https://github.com/wendell-gomes)
-![Twitter URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5511943381258)
+![WhatsApp URL](https://img.shields.io/whatsapp/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5511943381258&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511943381258)
 ![Github Badge](https://img.shields.io/github/followers/wendell-gomes?style=social)
 </p>
 
