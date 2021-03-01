@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif" width="30%">
+  <img src="https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif" width="50%">
   <br><br>
 </p>
 
