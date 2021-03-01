@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/wendell-gomes-75a3a8205/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
