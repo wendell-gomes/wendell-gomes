@@ -7,7 +7,7 @@
 <br>
 
   
-  [![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell-gomes)](https://github.com/wendell-gomes/github-readme-stats)
 ---
 
 </details>
