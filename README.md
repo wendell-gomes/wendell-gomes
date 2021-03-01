@@ -15,6 +15,7 @@
 <p align="center"> 
   <i> Clique e explore </i>
 </p>
+---
 <p align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendell-gomes-75a3a8205/)](https://www.linkedin.com/in/wendell-gomes-75a3a8205/)
