@@ -28,11 +28,14 @@
 <p align="center">
 
 
-<p align="center">
+<div align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendell-gomes-75a3a8205/)](https://www.linkedin.com/in/wendell-gomes-75a3a8205/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-black?url?label=WhatsApp&logo=WhatsApp&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511943381258)](https://api.whatsapp.com/send?1=pt_BR&phone=5511943381258) 
 ![Github Badge](https://img.shields.io/github/followers/wendell-gomes?style=social)
-</p>
+
+</div>
+
 
 
 
