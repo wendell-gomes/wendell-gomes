@@ -1,8 +1,4 @@
 <p align="center">
- 🐱🐱 Hello There!🐱🐱
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif" width="70%">
   <br><br>
 </p>
